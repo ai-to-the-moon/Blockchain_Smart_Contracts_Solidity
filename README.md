@@ -40,7 +40,7 @@ Withdrawing 10 Ether from the smart contract to account 2:
 
 ## Usage
 
-Logging on to the REMIX IDE [REMIX IDE](https://remix.ethereum.org), you should be able to copy and paste the 'joint_savings.sol' file into your workspace, build, and deploy the contract with relative ease. .
+Logging on to the [REMIX IDE](https://remix.ethereum.org), you should be able to copy and paste the 'joint_savings.sol' file into your workspace, build, and deploy the contract with relative ease. .
 
 ## Contributors
 
