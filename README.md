@@ -36,7 +36,7 @@ Withdrawing 5 Ether from the smart contract to account 1:
 
 Withdrawing 10 Ether from the smart contract to account 2: 
 
-![pic](Screenshots/withdraw_10_ether_to_acc_1.PNG)
+![pic](Screenshots/withdraw_10_ether_to_acc_2.PNG)
 
 ## Usage
 
